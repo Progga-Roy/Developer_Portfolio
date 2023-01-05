@@ -63,6 +63,7 @@ font-size: 45px;
 .banner-des{
     color: #757575;
    margin-bottom: 30px;
+   font-size: 18px;
 }
 main{
     max-width: 1140px;
@@ -141,4 +142,61 @@ margin-left: 30px;
     color: #757575;
     width: 201px;
 height: 196px;
+}
+.resume{
+    padding: 130px 150px;
+}
+.resume-title{
+    text-align: center;
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+}
+.together-edu-exp{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.education-container{
+width: 558px;
+}
+.education-div,.experience-div{
+    border-bottom: 1px solid #D1D1D1;
+}
+.title-edu{
+    margin-top: -40px;
+    font-size: 30px;
+    color: #181818;
+}
+.course-title,.job{
+    font-size: 25px;
+    margin-top: 21px;
+    color: #181818;
+}
+.university,.job-year{
+    font-size: 20px;
+    color: #757575;
+    margin-top: 10px;
+}
+.des-skill-for-everything{
+    margin-top: 20px;
+    color: #757575;
+    line-height: 28px;
+}
+.experience-container{
+
+width: 558px;
+}
+.btn-primary-one{
+   
+    min-height: 64px;
+    font-weight: 700;
+    font-size: 20px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    color: #ffff;
+    border: 0;
+    padding: 18px 35px;
+    margin-top: 50px;
+    
 }
