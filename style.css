@@ -187,16 +187,64 @@ width: 558px;
 
 width: 558px;
 }
-.btn-primary-one{
+.resume-btn{
    
-    min-height: 64px;
-    font-weight: 700;
-    font-size: 20px;
-    background: #FD6E0A;
-    border-radius: 5px;
-    color: #ffff;
-    border: 0;
-    padding: 18px 35px;
-    margin-top: 50px;
+   margin-top: 50px;
+   text-align: center;
     
+}
+.contact-section{
+    display: flex;
+    justify-content: space-around;
+   background-color: #FFF8F3;
+   margin-top: 113px;
+}
+.contact-time{
+    width: 558px;
+    margin-top: 130px;
+}
+.contact-title{
+    font-size: 35px;
+    color: #181818;
+}
+.contact-des{
+    margin-top: 20px;
+    color: #757575;
+}
+.social-media{
+    margin-top: 30px;
+    
+}
+.social-media img{
+  margin-right: 15px;
+    
+}
+
+.form{
+    margin-top: 130px;
+}
+input{
+    margin-top: 28px;
+    width: 461px;
+height: 64px;
+border:0;
+background: #FFFFFF;
+border-radius: 5px;
+padding: 18px,30px;
+}
+
+textarea{
+    margin-top: 28px;
+    width: 461px;
+height: 180px;
+border:0;
+background: #FFFFFF;
+border-radius: 5px;
+padding: 18px,30px;
+}
+.submit-btn{
+    margin-top: 24px;
+}
+..contact-section a{
+
 }
